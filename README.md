@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am 23 years old. I am a 3rd year computer science student at Hacettepe University. I've been actively involved in software for 3 years.
+I am a 3rd-year computer science student at Hacettepe University. I've been actively involved in software for 3 years.
 <!--
 **yusufdiner/yusufdiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
