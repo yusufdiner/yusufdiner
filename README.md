@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 3rd-year computer science student at Hacettepe University. I've been actively involved in software for 3 years.
+I am a 4th-year computer science student at Hacettepe University. I've been actively involved in software for 5 years.
 
 - 🌱 I’m currently learning web development
 - 🔭 I'm still trying to learn machine learning
